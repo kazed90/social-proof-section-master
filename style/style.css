@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image-top{
+    display: flex;
+   
+}
+.image-botom{
+    display: flex;
+    justify-content: right;   
+}
+.rating{
+    display: flex;
+    border: 1px solid magenta;
+}
+.text-rating{
+    display: flex;
+    border: 1px solid magenta;
+    justify-content: space-between;
+    
+}
+.para{
+    border: 1px solid magenta;
+
+}
+.paragraph{
+    border: 1px solid magenta;
+}
+.person{
+    display: flex;
+    
+}
+.cart-person{
+    border: 1px solid magenta;
+
+}
+.person-disc{
+    display: flex;
+}
+
